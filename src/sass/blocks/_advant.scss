@@ -1,0 +1,30 @@
+.advant {
+    background-color: #f6f6f6;
+    padding: 70px 0 64px 0;
+    &__all {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 60px;
+    }
+    &__blocks {
+       
+       flex-direction: row;
+        
+        width: 275px;
+        text-align: center;
+    }
+    &__subheader {
+        font-weight: 700;
+        font-size: 18px;
+        margin-top: 45px;
+    }
+    &__text {
+        margin-top: 20px;
+        font-weight: 300;
+        font-size: 14px;
+        line-height: 18px;
+        span {
+            color: #FF0000
+        }
+    }
+}
