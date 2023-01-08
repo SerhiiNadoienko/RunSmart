@@ -24,4 +24,4 @@ This is a simple project, where I mainly trained to write layout and stylize. Th
 
 ---
 
-## **Deployment:** [Click here](https://foodproject-rust.vercel.app/)
+## **Deployment:** [Click here](https://nimble-faun-23c936.netlify.app/)
